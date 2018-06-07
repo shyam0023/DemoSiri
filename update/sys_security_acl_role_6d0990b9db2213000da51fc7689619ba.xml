@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 17:20:39</sys_created_on>
+        <sys_id>6d0990b9db2213000da51fc7689619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_123297_demosiri_demosiri.x_123297_demosiri.user</sys_name>
+        <sys_package display_value="DemoSiri" source="x_123297_demosiri">910958f5db2213000da51fc7689619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoSiri">910958f5db2213000da51fc7689619e9</sys_scope>
+        <sys_security_acl display_value="x_123297_demosiri_demosiri">ad0990b9db2213000da51fc7689619b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6d0990b9db2213000da51fc7689619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 17:20:39</sys_updated_on>
+        <sys_user_role display_value="x_123297_demosiri.user" name="x_123297_demosiri.user">dd0950b9db2213000da51fc7689619e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DemoSiri" max_length="40" name="x_123297_demosiri_demosiri" type="collection"/>
+</database>
